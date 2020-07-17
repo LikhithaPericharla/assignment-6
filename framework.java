@@ -1,5 +1,5 @@
 import java.util.*;
-public class example_framework {
+public class framework {
    public static void main(String[] args){
 	   TreeSet<String> set=new TreeSet<>();
 	   //adding elements to the TreeSet
